@@ -4,7 +4,7 @@ This is my home page! My name is Andrew Barrientos and I am a student at [Cal St
 
 ## Computer Science Projects
 
-My GitHub page is (http://github.com/andrewbarrientos).
+My GitHub page is (http://github.com/andrewbarrientos)
 
 ### CPSC 120
 
