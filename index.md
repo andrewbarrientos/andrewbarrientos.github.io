@@ -8,7 +8,7 @@ You can find my GitHub page [here](http://github.com/andrewbarrientos).
 
 ### CPSC 120
 
-* [Lab 3](https://github.com/cpsc-spring-2025/cpsc-120-lab-03-andrew-angel/tree/main/part-2)
+* **Lab 3**
 
     Lab 3, part 2 was something I really enjoyed making just because it's nice to know
     how far things into the future things you have are. One of my friends does art
@@ -23,7 +23,7 @@ You can find my GitHub page [here](http://github.com/andrewbarrientos).
     the difference between the two! We also used cin and cout statements to take our input as
     well as give us our output.
 
-* [Lab 4](https://github.com/cpsc-spring-2025/cpsc-120-lab-04-andrew-alexa-lab-4) 
+* **Lab 4** 
 
     I think both part 1 and 2 for Lab 4 were very fun for me to create and use! With part 1
     I've never been great at unit conversion and am pretty deadset on following the instructions
@@ -37,7 +37,7 @@ You can find my GitHub page [here](http://github.com/andrewbarrientos).
      secret number we inputted into the computer and store it and then we would compare the guess number
      to that secret number and see if it was *correct*, *higher*, or *lower*!
 
-* [Lab 6](https://github.com/cpsc-spring-2025/cpsc-120-lab-06-andrew-judah-lab-6)
+* **Lab 6**
 
     For this lab I think that both parts were pretty interesting to make, but out of the two I think
     that part 1, which was madlibs was more fun for me to use! I remember whenever I would go to certain
